@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Demonaire
+- 👀 I’m interested in data scinece and machine learning with Python
+- 🌱 I’m currently learning machine learning fundamentals
+- 📫 How to reach me : mudassirwaheed99@gmail.com
